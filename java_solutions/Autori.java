@@ -6,7 +6,6 @@ public class Autori {
         String[] parts=word.split("-");
         String letters="";
         for (String part : parts){
-            System.out.println(part);
             char firstChar=part.charAt(0);
             letters+=firstChar;
         }
