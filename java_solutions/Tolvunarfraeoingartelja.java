@@ -5,6 +5,7 @@ public class Tolvunarfraeoingartelja{
         Scanner k=new Scanner(System.in);
         int number=k.nextInt();
         System.out.println(number-1);
+        k.close();
     }
 
 }

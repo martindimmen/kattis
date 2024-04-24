@@ -9,7 +9,7 @@ public class Autori {
             char firstChar=part.charAt(0);
             letters+=firstChar;
         }
-
+        s.close();
         System.out.println(letters.toUpperCase());
     }
 }
