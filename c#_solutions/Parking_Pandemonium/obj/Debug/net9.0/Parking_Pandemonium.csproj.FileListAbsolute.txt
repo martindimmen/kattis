@@ -1,0 +1,15 @@
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/bin/Debug/net9.0/Parking_Pandemonium
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/bin/Debug/net9.0/Parking_Pandemonium.deps.json
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/bin/Debug/net9.0/Parking_Pandemonium.runtimeconfig.json
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/bin/Debug/net9.0/Parking_Pandemonium.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/bin/Debug/net9.0/Parking_Pandemonium.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.AssemblyInfoInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.AssemblyInfo.cs
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.csproj.CoreCompileInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.sourcelink.json
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/refint/Parking_Pandemonium.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/Parking_Pandemonium.genruntimeconfig.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Parking_Pandemonium/obj/Debug/net9.0/ref/Parking_Pandemonium.dll
