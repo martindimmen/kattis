@@ -1,0 +1,15 @@
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.AssemblyInfoInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.AssemblyInfo.cs
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.csproj.CoreCompileInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.sourcelink.json
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/bin/Debug/net9.0/Concatenate
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/bin/Debug/net9.0/Concatenate.deps.json
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/bin/Debug/net9.0/Concatenate.runtimeconfig.json
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/bin/Debug/net9.0/Concatenate.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/bin/Debug/net9.0/Concatenate.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/refint/Concatenate.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/Concatenate.genruntimeconfig.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Concatenate/obj/Debug/net9.0/ref/Concatenate.dll

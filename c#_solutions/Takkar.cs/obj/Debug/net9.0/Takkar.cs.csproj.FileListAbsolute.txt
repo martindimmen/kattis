@@ -1,0 +1,15 @@
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/bin/Debug/net9.0/Takkar.cs
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/bin/Debug/net9.0/Takkar.cs.deps.json
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/bin/Debug/net9.0/Takkar.cs.runtimeconfig.json
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/bin/Debug/net9.0/Takkar.cs.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/bin/Debug/net9.0/Takkar.cs.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.AssemblyInfoInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.AssemblyInfo.cs
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.csproj.CoreCompileInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.sourcelink.json
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/refint/Takkar.cs.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/Takkar.cs.genruntimeconfig.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Takkar.cs/obj/Debug/net9.0/ref/Takkar.cs.dll
