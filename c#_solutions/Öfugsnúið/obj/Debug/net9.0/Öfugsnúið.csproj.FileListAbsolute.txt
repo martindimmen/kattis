@@ -1,0 +1,15 @@
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.AssemblyInfoInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.AssemblyInfo.cs
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.csproj.CoreCompileInputs.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.sourcelink.json
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/bin/Debug/net9.0/Öfugsnúið
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/bin/Debug/net9.0/Öfugsnúið.deps.json
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/bin/Debug/net9.0/Öfugsnúið.runtimeconfig.json
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/bin/Debug/net9.0/Öfugsnúið.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/bin/Debug/net9.0/Öfugsnúið.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/refint/Öfugsnúið.dll
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.pdb
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/Öfugsnúið.genruntimeconfig.cache
+/Users/martindimmen/personal/kattis/c#_solutions/Öfugsnúið/obj/Debug/net9.0/ref/Öfugsnúið.dll
